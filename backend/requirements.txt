@@ -1,0 +1,2 @@
+futu-api==7.3.33
+python-dotenv==1.0.0
